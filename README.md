@@ -8,7 +8,8 @@
 - ⚡ Fun fact: Coding has over 700 languages
 -->
 
-###🌐 Socials:
+### 🌐Socials:
+
 Facebook: NirajNandre
 Instagram: iamniraj_6
 LinkedIn: NirajNandre
