@@ -1,4 +1,4 @@
-## Hola, I,m Niraj Nandre 👋
+# Hola, I,m Niraj Nandre 👋
 
 ### 😎 About me:
 - 🔭 I’m currently working  with Nodejs, React, Javascript, Flutter, etc.
@@ -14,7 +14,7 @@ Facebook: NirajNandre
 Instagram: iamniraj_6
 LinkedIn: NirajNandre
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 [C/C++],[Python],[Dart,FLutter],[HTML,CSS,JavaScript],[Nodejs,React,ChakraUI],etc.
 
 
