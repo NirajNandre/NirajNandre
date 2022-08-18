@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hola, I,m Niraj Nandre 👋
 
-<!--
-**NirajNandre/NirajNandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 😎 About me:
+- 🔭 I’m currently working  with Nodejs, React, Javascript, Flutter, etc.
+- 🌱 I’m currently learning Frontend Development as well as Mobile App Development
+- 💬 Ask me about Frontend skills. I'm Happy to help 
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: Coding has over 700 languages
 -->
+
+###🌐 Socials:
+Facebook: NirajNandre
+Instagram: iamniraj_6
+LinkedIn: NirajNandre
+
+# 💻 Tech Stack:
+[C/C++],[Python],[Dart,FLutter],[HTML,CSS,JavaScript],[Nodejs,React,ChakraUI],etc.
+
+
